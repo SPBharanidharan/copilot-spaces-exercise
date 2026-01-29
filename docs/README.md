@@ -21,4 +21,7 @@ Quality assurance is embedded through reviews, acceptance criteria, deployment v
 - [Roles and Personas](octoacme-roles-and-personas.md)
 - [Risks and Communication](octoacme-risks-and-communication.md)
 - [Release and Deployment](octoacme-release-and-deployment.md)
-- [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) 
+- [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+
+  <!-- README validated for Copilot Spaces exercise -->
+ 
